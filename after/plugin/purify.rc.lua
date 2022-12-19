@@ -1,0 +1,3 @@
+-- vim.cmd[[syntax on]]
+-- -- -- -- -- -- -- -- -- vim.cmd[[colorscheme purify]]
+-- vim.cmd[[hi Normal guibg=#252834 ctermbg=234]]
